@@ -1,0 +1,7 @@
+{
+  "name": "Project Ananse - AI Traffic Enforcement",
+  "description": "Proprietary AI traffic enforcement system developed by Musah Shaibu, Hakilix Labs UK. Features chromatic normalization, TrOCR, and edge-AI cabin monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
